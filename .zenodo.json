@@ -27,9 +27,5 @@
 
     "keywords": ["Cats", "Laser", "Behavior"],
 
-    "communities": [
-        {"identifier": "software-cats"}
-    ],
-
     "grants": [{"id":"777541"}]
 }
