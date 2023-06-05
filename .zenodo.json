@@ -3,23 +3,21 @@
         {
             "orcid": "0000-0002-1825-0097",
             "affiliation": "Feline reasearch institute",
-            "name": "Field, Gar"
+            "name": "Simpson, Lisa"
         },
         {
             "orcid": "0000-0002-1825-0097",
             "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
+            "name": "Burns, Mister"
+        },
+        {
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "Feline reasearch institute",
+            "name": "Wiggum, Ralph"
         }
-    ],
-    
+    ],    
     "upload_type": "workflow",
-
-    "description": "This is a test knowledge package including several resources.",
-    
-    "license": "Apache-2.0",
-
-    "title": "Red-Dot: ML-powered laser vector detection. UPDATED",
-
+    "title": "An example for a Knowledge Package",
     "related_identifiers": [
         {
             "scheme": "doi",
@@ -58,12 +56,11 @@
             "resource_type": "presentation"
         }
     ],
-    
     "communities": [
         {"identifier": "open_science_itc"}
     ],
-
+    "description": "This is a test knowledge package including several resources.",
+    "license": "Apache-2.0",
     "keywords": ["Cats", "Laser", "Behavior"],
-
     "grants": [{"id":"777541"}]
 }
