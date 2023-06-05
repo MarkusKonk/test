@@ -12,7 +12,7 @@
         }
     ],
     
-    "resource_type": "workflow",
+    "upload_type": "workflow",
 
     "description": "This is a test knowledge package including several resources.",
     
