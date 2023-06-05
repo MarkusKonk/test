@@ -13,8 +13,7 @@
         {"scheme": "doi", "identifier": "10.5281/zenodo.6867672", "relation": "hasPart", "resource_type": "software"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.7967077", "relation": "hasPart", "resource_type": "workflow"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.8002770", "relation": "hasPart", "resource_type": "lesson"},
-        {"scheme": "doi", "identifier": "10.5281/zenodo.7875932", "relation": "hasPart", "resource_type": "presentation"},
-        {"scheme": "doi", "identifier": "10.5281/zenodo.7875932", "relation": "hasPart", "resource_type": "publication-annotationcollection"}
+        {"scheme": "doi", "identifier": "10.5281/zenodo.7875932", "relation": "hasPart", "resource_type": "presentation"}
     ],
     "communities": [
         {"identifier": "open_science_itc"}
