@@ -4,7 +4,7 @@
         {"orcid": "0000-0002-1825-0097", "affiliation": "Feline reasearch institute", "name": "Burns, Mister"},
         {"orcid": "0000-0002-1825-0097", "affiliation": "Feline reasearch institute", "name": "Wiggum, Ralph"}
     ],    
-    "upload_type": "annotationcollection",
+    "upload_type": "workflow",
     "title": "An example for a Knowledge Package",
     "related_identifiers": [
         {"scheme": "doi", "identifier": "10.5281/zenodo.8004388", "relation": "hasPart", "resource_type": "dataset"},
@@ -12,7 +12,8 @@
         {"scheme": "doi", "identifier": "10.5281/zenodo.6867672", "relation": "hasPart", "resource_type": "software"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.7967077", "relation": "hasPart", "resource_type": "workflow"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.8002770", "relation": "hasPart", "resource_type": "lesson"},
-        {"scheme": "doi", "identifier": "10.5281/zenodo.7875932", "relation": "hasPart", "resource_type": "presentation"}
+        {"scheme": "doi", "identifier": "10.5281/zenodo.7875932", "relation": "hasPart", "resource_type": "presentation"},
+        {"scheme": "doi", "identifier": "10.5281/zenodo.7875932", "relation": "hasPart", "resource_type": "publication-annotationcollection"}
     ],
     "communities": [
         {"identifier": "open_science_itc"}
