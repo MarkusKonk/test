@@ -22,7 +22,17 @@
             "identifier": "10.1234/software.paper.5678",
             "relation": "isDocumentedBy",
             "resource_type": "publication-article"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.1234/software.paper.5678",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
         }
+    ],
+    
+    "communities": [
+        {"identifier": "software-cats"}
     ],
 
     "keywords": ["Cats", "Laser", "Behavior"],
