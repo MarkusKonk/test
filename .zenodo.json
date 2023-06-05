@@ -16,7 +16,7 @@
         {"scheme": "doi", "identifier": "10.5281/zenodo.7875932", "relation": "hasPart", "resource_type": "presentation"}
     ],
     "communities": [
-        {"identifier": "open_science_itc"}
+        {"identifier": "aquaInfra"}
     ],
     "description": "This is a test knowledge package including several resources.",
     "license": "Apache-2.0",
