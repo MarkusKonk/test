@@ -12,7 +12,7 @@
         {"scheme": "doi", "identifier": "10.5281/zenodo.5113577", "relation": "hasPart", "resource_type": "publication-report"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.6867672", "relation": "hasPart", "resource_type": "software"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.7967077", "relation": "hasPart", "resource_type": "workflow"},
-        {"scheme": "doi", "identifier": "10.5281/zenodo.8002770", "relation": "hasPart", "resource_type": "lesson"},
+        {"scheme": "doi", "identifier": "10.5072/zenodo.1237920", "relation": "hasPart", "resource_type": "lesson"},
         {"scheme": "doi", "identifier": "10.5072/zenodo.1237920", "relation": "hasPart", "resource_type": "presentation"}
     ],
     "communities": [
