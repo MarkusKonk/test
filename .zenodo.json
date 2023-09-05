@@ -8,7 +8,7 @@
     "publication_type": "annotationcollection",
     "title": "An example for a Knowledge Package",
     "related_identifiers": [
-        {"scheme": "doi", "identifier": "10.5281/zenodo.8004388", "relation": "hasPart", "resource_type": "dataset"},
+        {"scheme": "doi", "identifier": "10.5072/zenodo.1237922", "relation": "hasPart", "resource_type": "image"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.5113577", "relation": "hasPart", "resource_type": "publication-report"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.6867672", "relation": "hasPart", "resource_type": "software"},
         {"scheme": "doi", "identifier": "10.5281/zenodo.7967077", "relation": "hasPart", "resource_type": "workflow"},
